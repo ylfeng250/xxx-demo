@@ -2,18 +2,18 @@
   "publicPath": "/",
   "entries": {
     "main": [
-      "js/framework-8882342ac9025965c794.js",
-      "js/721-03f972bc1ae5d07e098e.js",
-      "css/main-1fd520e5be542b85dcf0.css",
-      "js/main-80437133ba64d4783b89.js"
+      "js/framework.js",
+      "js/721.js",
+      "css/main.css",
+      "js/main.js"
     ]
   },
   "pages": {
     "checkupdate-index": [
-      "js/p_checkupdate-index-ce9cdee8a1a42b661182.js"
+      "js/p_checkupdate-index.js"
     ],
     "index": [
-      "js/p_index-8eb75a18f5b2c8e6fabf.js"
+      "js/p_index.js"
     ]
   },
   "assets": {}

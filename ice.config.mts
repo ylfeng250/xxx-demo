@@ -9,5 +9,4 @@ export default defineConfig(() => ({
     onDemand: true,
     format: "esm",
   },
-  hash: "contenthash",
 }));
