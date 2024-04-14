@@ -1,0 +1,20 @@
+{
+  "publicPath": "/",
+  "entries": {
+    "main": [
+      "js/framework-5b59c6508a89195ec38c.js",
+      "js/721-03f972bc1ae5d07e098e.js",
+      "css/main-1fd520e5be542b85dcf0.css",
+      "js/main-ec36abc746ef83633d89.js"
+    ]
+  },
+  "pages": {
+    "checkupdate-index": [
+      "js/p_checkupdate-index-ce9cdee8a1a42b661182.js"
+    ],
+    "index": [
+      "js/p_index-8eb75a18f5b2c8e6fabf.js"
+    ]
+  },
+  "assets": {}
+}
