@@ -2,10 +2,10 @@
   "publicPath": "/",
   "entries": {
     "main": [
-      "js/framework-5b59c6508a89195ec38c.js",
+      "js/framework-8882342ac9025965c794.js",
       "js/721-03f972bc1ae5d07e098e.js",
       "css/main-1fd520e5be542b85dcf0.css",
-      "js/main-ec36abc746ef83633d89.js"
+      "js/main-80437133ba64d4783b89.js"
     ]
   },
   "pages": {
