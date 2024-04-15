@@ -10,6 +10,11 @@ export default function Home() {
             检查页面是否更新
           </Link>
         </li>
+        <li>
+          <Link to="/changeTheme" target="_blank">
+            切换主题
+          </Link>
+        </li>
       </ul>
     </div>
   );

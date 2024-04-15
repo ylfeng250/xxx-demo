@@ -1,7 +1,8 @@
-/**
- * The global.css defines the style of the entire project,
- * ice.js will globally import this file by default.
- */
+html[data-theme="dark"] {
+  --primary: #31f63e;
+  --bg-primary: black;
+}
+
 :root {
   --primary: #3178f6;
   --bg-primary: white;
