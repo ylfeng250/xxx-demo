@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-
+// https://stackoverflow.com/questions/3522090/event-when-window-location-href-changes/75699736#75699736
 function usePageChange() {
   let oldHref = document.location.href;
 
